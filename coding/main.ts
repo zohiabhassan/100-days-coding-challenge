@@ -3,7 +3,7 @@
 
 
 
-// day one challeng start conding !
+                      // (day one challeng start conding !)
 
 // // Q2
 
@@ -31,7 +31,7 @@
 //  console.log(personName.charAt(0).toUpperCase() + personName.slice(1).toLowerCase());
 
 
-// day two challeng start conding !
+                       // (day two challeng start conding !)
 
 // Q4
   // console.log(`"Albert Einstein one said,"A person who never mistake a tried any thing new."`);
@@ -49,14 +49,7 @@
 
 //  console.log(personName.trim());
 
-
-
-
-
-  
-
-// day three coding start!
-
+                      // (day three coding start!)
 
 // Q7
 // Q8
@@ -69,8 +62,27 @@
 
 // Q9
 
- let favoriteNumber : number = 24 ;
- console.log(`my favorite number is ${favoriteNumber}`);
+//  let favoriteNumber : number = 24 ;
+//  console.log(`my favorite number is ${favoriteNumber}`);
+
+                    
+
+                             //  (day four coding start!)
+
+
+// Q10
+
+  // Applying addition !
+    //  console.log(4+4);
+ 
+  // Applying subtraction !
+    //  console.log(12-4);
+ 
+  // Appling multiplication !
+    //  console.log(2*4);
+ 
+  // Applying division !
+      // console.log(16/2);
 
 
 
@@ -78,6 +90,18 @@
 
 
 
+      // Q11
+
+// let friendsName = ["hassan","usama","ali raza","hasan" ,"moiz"];
+// friendsName. forEach (friend => console.log(friend));
+
+  
 
 
 
+
+
+
+// Q12
+ let friendsName =  ["hassan", "uzair","areeb","furqan","rizwan"]; 
+ friendsName. forEach(friend => console.log (`hello ${friend} how are you?`) );
